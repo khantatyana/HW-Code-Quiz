@@ -3,6 +3,7 @@
 
 https://khantatyana.github.io/HW-Code-Quiz/
 
+![tes](/Assets/codeQuiz.png)
 
 Plan of Quiz Code:
 
